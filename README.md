@@ -44,7 +44,7 @@
 
 **Инструкции по запуску:**
 
-1. Склонируйте репозиторий: `git clone https://github.com/ваш_логин/test_task.git`
+1. Склонируйте репозиторий: `https://github.com/FGJ666/edtech.git`
 2. Откройте Jupyter Notebook `test_and_sql.ipynb`
 3. Запустите все ячейки для просмотра решения.
 
